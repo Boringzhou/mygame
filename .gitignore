@@ -37,6 +37,8 @@ $RECYCLE.BIN/
 *.dmp
 *.sdf
 *.xml
+*.db
+*.opendb
 
 # Windows shortcuts
 *.lnk
