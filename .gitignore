@@ -14,6 +14,30 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
+#temp file
+*.pdb
+*.obj
+*.idb
+*.pch
+*.ncb
+*.plg
+*.res
+*.aps
+*.sbr
+*.ilk
+*.opt
+*.suo
+*.ipch
+*.tlog
+*.log
+*.exp
+*.htm
+*.tlh
+*.tli
+*.dmp
+*.sdf
+*.xml
+
 # Windows shortcuts
 *.lnk
 
